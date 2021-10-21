@@ -3,6 +3,9 @@
 .App {
 	text-align: center;
 }
+.title {
+	float: left;
+}
 
 /* .App-logo {
   height: 40vmin;
